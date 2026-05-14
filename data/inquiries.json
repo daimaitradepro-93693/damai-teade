@@ -1,0 +1,46 @@
+[
+  {
+    "id": "inquiry_1778138640896_00jy7ie6i",
+    "name": "张三",
+    "email": "zhangsan@example.com",
+    "phone": "",
+    "subject": "常规咨询",
+    "message": "测试咨询内容",
+    "status": "read",
+    "createdAt": "2026-05-07T07:24:00.896Z",
+    "updatedAt": "2026-05-07T07:38:57.998Z"
+  },
+  {
+    "id": "inquiry_1778138682020_gb54wbmc9",
+    "name": "大迈业务部",
+    "email": "978154406@qq.com",
+    "phone": "",
+    "subject": "常规咨询",
+    "message": "采购",
+    "status": "read",
+    "createdAt": "2026-05-07T07:24:42.020Z",
+    "updatedAt": "2026-05-07T07:38:53.728Z"
+  },
+  {
+    "id": "inquiry_1778156857360_r41ea8ns4",
+    "name": "测试",
+    "email": "test@test.com",
+    "phone": "",
+    "subject": "测试",
+    "message": "测试内容",
+    "status": "read",
+    "createdAt": "2026-05-07T12:27:37.360Z",
+    "updatedAt": "2026-05-14T07:27:26.542Z"
+  },
+  {
+    "id": "inquiry_1778502864558_o0r50whtc",
+    "name": "测试",
+    "email": "test@test.com",
+    "phone": "",
+    "subject": "测试",
+    "message": "测试内容",
+    "status": "read",
+    "createdAt": "2026-05-11T12:34:24.558Z",
+    "updatedAt": "2026-05-14T07:27:16.175Z"
+  }
+]
